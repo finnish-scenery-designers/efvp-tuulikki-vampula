@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Rectangle width="2010.118530" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="61.08020743634818" longitude="22.56529029484362" altitude="78.05444321688265" latitude2="61.07163944450024" longitude2="22.55800610547043" altitude2="78.05613775271922"/>
+	<Rectangle width="2010.118530" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="61.08020694446233" longitude="22.56529275532029" altitude="78.05441556498408" latitude2="61.07163993624726" longitude2="22.55800364554546" altitude2="78.05616211518645"/>
 	<!--SceneryObject name: Automatic_Fence-->
 	<SceneryObject lat="61.03998587484639" lon="22.59468140216512" alt="0.00000000000000" pitch="0.000867" bank="-0.000867" heading="116.106959" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{8BEE7FF0-6CE8-4BD5-B053-20263F075E20}" scale="2.148960"/>
@@ -45,24 +45,22 @@
 	<SceneryObject lat="61.03992794543414" lon="22.59434033358620" alt="0.00000000000000" pitch="0.000328" bank="-0.000328" heading="-158.873724" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{3B65922A-98B8-4D47-9453-3755C41B9A94}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject lat="61.03931781752017" lon="22.59652446538197" alt="0.00000000000000" pitch="0.000430" bank="-0.000430" heading="-100.801141" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Cessna 152 Aero Asobo" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject lat="61.03920188950352" lon="22.59644875221555" alt="0.00000000000000" pitch="0.000519" bank="-0.000519" heading="-70.478386" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Cessna 172SP Asobo AirTraffic 03" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject lat="61.03942775098190" lon="22.59665248572785" alt="0.00000000000000" pitch="0.000587" bank="-0.000587" heading="-122.119725" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FlightDesignCT Asobo" scale="1.000000"/>
-	</SceneryObject>
 	<SceneryObject lat="61.04032730753589" lon="22.58977497548341" alt="0.00000000000000" pitch="0.001462" bank="-0.001462" heading="-1.621480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	<Rectangle width="1489.411255" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="61.04642054184489" longitude="22.59539627312286" altitude="90.04707126878202" latitude2="61.03305440332182" longitude2="22.59539626983736" altitude2="90.03982107527554"/>
-	<Rectangle width="1489.411255" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="61.04642054184489" longitude="22.59539627312286" altitude="90.04707126878202" latitude2="61.03305440332182" longitude2="22.59539626983736" altitude2="90.03982107527554"/>
-	<Airport region="Vampula" country="Finland" city="Huittinen" name="Tuulikki Vampula" ident="EFVP" lat="61.03960359402660" lon="22.59557318720271" alt="89.99999953992665" magvar="8.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE">
-		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="61.03984456723111" lon="22.59451381221319" heading="115.000000" radius="8.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="2" type="RAMP_GA_MEDIUM" lat="61.03952983089744" lon="22.59609317398979" heading="190.000000" radius="25.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="61.03964609848403" lon="22.59429968949511" heading="115.000000" radius="8.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+	<!--SceneryObject name: photosign-->
+	<SceneryObject lat="61.03999985790792" lon="22.59462723367787" alt="0.00000000000000" pitch="0.002766" bank="-0.001544" heading="-153.803238" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A75B4305-1326-433C-2BA2-AE1BE744C6D8}" scale="1.000000"/>
+	</SceneryObject>
+	<Rectangle width="1489.411255" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="61.04642054184107" longitude="22.59539627312284" altitude="90.04707050509751" latitude2="61.03305440331800" longitude2="22.59539626983733" altitude2="90.03982031252235"/>
+	<Rectangle width="1489.411255" falloff="500.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="61.04642054184107" longitude="22.59539627312284" altitude="90.04707050509751" latitude2="61.03305440331800" longitude2="22.59539626983733" altitude2="90.03982031252235"/>
+	<Airport region="Vampula" country="Finland" city="Huittinen" name="Tuulikki Vampula" ident="EFVP" lat="61.03960359402660" lon="22.59557318720271" alt="89.99999953992665" magvar="8.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiwayParking index="0" type="RAMP_GA_MEDIUM" lat="61.03984456723111" lon="22.59451381221319" heading="115.000000" radius="8.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_MEDIUM" lat="61.03964609848403" lon="22.59429968949511" heading="115.000000" radius="8.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="2" type="RAMP_GA_MEDIUM" lat="61.03962701983846" lon="22.59550746572192" heading="190.000000" radius="10.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="3" type="RAMP_GA_MEDIUM" lat="61.03950024235515" lon="22.59602027579569" heading="190.000000" radius="10.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="4" type="RAMP_GA_MEDIUM" lat="61.03935229435454" lon="22.59657249231941" heading="115.000000" radius="8.000000" name="PARKING" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="5" type="RAMP_GA_MEDIUM" lat="61.03920319903823" lon="22.59644138623718" heading="115.000000" radius="8.000000" name="PARKING" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<Runway lat="61.03967349945678" lon="22.59186969328306" alt="90.06342677772045" heading="108.75749969482422" length="1000.11602783203125" width="20.00000000000000" patternAltitude="900.00000000000000" surface="{EC765684-B6D6-448E-8768-D304144B1948}" transparent="FALSE" number="10" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="60.00000000000000" secondaryMarkingBias="23.50000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
 			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="TRUE" precision="FALSE" alternatePrecision="FALSE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="TRUE"/>
