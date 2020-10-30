@@ -1,7 +1,7 @@
 <AssetPackage Name="efvp-tuulikki-vampula" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Tuulikki Vampula airfield</Title>
+		<Title>Tuulikki Vampula Airfield EFVP</Title>
 		<Manufacturer/>
 		<Creator>Tuomas Kuosmanen</Creator>
 	</ItemSettings>
@@ -23,7 +23,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\AirportServices</AssetDir>
+			<AssetDir>PackageSources\AirportServices\</AssetDir>
 			<OutputDir>AirportServices\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="MyLivingworld_Config">
@@ -31,8 +31,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\LivingWorld_Config</AssetDir>
+			<AssetDir>PackageSources\LivingWorld_Config\</AssetDir>
 			<OutputDir>LivingWorld_Config\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scenery\</AssetDir>
+			<OutputDir>scenery\efvp</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymodellib">
 			<Type>ArtProj</Type>
@@ -40,15 +48,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\mycompany\</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="myscene">
-			<Type>BGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\scenery\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<OutputDir>scenery\efvp</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
